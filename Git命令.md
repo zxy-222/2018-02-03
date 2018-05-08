@@ -58,8 +58,10 @@
 
     ```
     $ git add 文件名
-    $ git add .或git add ./提交所有的文件
-    ```
+    $ git add .或git add ./提交所有的文件(表示添加新文件和编辑过的文件，不包括删除的文件)
+    $ git add -A .提交所有的文件
+    
+    ```
 
 - ##### 6、提交 —— git commit 
 
